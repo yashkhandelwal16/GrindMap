@@ -1,4 +1,4 @@
-# GrindMap 🚀
+# GrindMap
 
 <div align="center">
 
